@@ -216,16 +216,3 @@ labels = ['Topic {}: \n '.format(i) + ' '.join([topic.split() for topic in top_n
 
 fig, ax = plt.subplots(figsize=(14,10))
 sb.heatmap(yearly_topic_counts, xticklabels=labels, cmap="YlGnBu", ax=ax)
-
-
-
-
-
-
-
-
-
-
-
-
-
