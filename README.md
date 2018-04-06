@@ -28,6 +28,3 @@ Digging into the keywords, one can see all the important episodes shaping the la
 3. Basic LDA (Latent Dirichlet Allocation) with 10,000 data points
 4. Larger LDA with 100,000 data points
 5. Year-by-year analysis of relevant topics
-
-**Output Graph**
-
