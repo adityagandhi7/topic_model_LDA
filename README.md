@@ -6,7 +6,7 @@ This contains data of news headlines published over a period of 15 years. From t
 
 Site: http://www.abc.net.au/
 
-Prepared by Rohit Kulkarni
+Data Prepared by Rohit Kulkarni
 
 **Content**
 
